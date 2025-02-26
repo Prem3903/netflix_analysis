@@ -18,12 +18,12 @@ This project provides an analysis of Netflix movies and TV shows using visualiza
 ## Dataset
 The dataset used in this project includes information about Netflix movies and TV shows, their genres, release years, and ratings. It is publicly available on platforms like Kaggle.
 
-##Results
+## Results
 - The majority of Netflix content consists of movies (~68.42%), while TV shows make up ~31.58%.
 - TV-MA is the most common rating among all content types.
 - The number of movies added to Netflix has increased significantly in recent years.
 
-##Future Improvements
+## Future Improvements
 - Expanding the dataset to include more recent Netflix additions.
 - Applying machine learning techniques to recommend content based on user preferences.
 - Integrating APIs to fetch real-time Netflix data.
